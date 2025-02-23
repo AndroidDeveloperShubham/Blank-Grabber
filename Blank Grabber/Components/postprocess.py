@@ -73,3 +73,4 @@ if __name__ == "__main__":
         RenameEntryPoint(builtFile, "loader-o")
     else:
         print("Not Found")
+
