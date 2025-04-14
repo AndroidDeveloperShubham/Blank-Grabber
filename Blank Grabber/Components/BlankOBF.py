@@ -140,3 +140,4 @@ if __name__ == "__main__":
         code = sourcefile.read()
     
     BlankOBF(code, args.path)
+
