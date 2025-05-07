@@ -1855,3 +1855,4 @@ if __name__ == "__main__" and os.name == "nt":
             Utility.DeleteSelf() # Delete the current file
         
         Logger.info("Process ended")
+
